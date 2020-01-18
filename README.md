@@ -13,8 +13,10 @@ involuntarily created by that one student who tries too hard. The website featur
 - Finished implementing prototyped UI in Adobe XD
 - Option to create private classrooms by users
 - Implement a premium contract rewards system for monetization
+<p align="center">
 <img alt="crambarry-preview1" src="https://i.ibb.co/m5mm2KQ/1.png" width="49%">
 <img alt="crambarry-preview2" src="https://i.ibb.co/7JDR48D/2.png" width="49%">
+</p>
 
 ## Feedback
 
