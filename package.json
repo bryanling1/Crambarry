@@ -1,0 +1,42 @@
+{
+  "name": "studylobby",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bad-words": "^3.0.0",
+    "bad-words-relaxed": "^1.6.5",
+    "censor-sensor": "^1.0.4",
+    "firebase": "^5.7.2",
+    "moment": "^2.24.0",
+    "react": "^16.7.0",
+    "react-beforeunload": "^1.0.4",
+    "react-circle": "^1.1.1",
+    "react-dom": "^16.7.0",
+    "react-redux": "^5.1.1",
+    "react-redux-firebase": "^2.2.6",
+    "react-responsive-spritesheet": "^2.3.9",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.3",
+    "react-scroll-to-bottom": "^1.2.0",
+    "redux": "^4.0.1",
+    "redux-firestore": "^0.6.2",
+    "redux-thunk": "^2.3.0",
+    "thunk": "0.0.1",
+    "valid-url": "^1.0.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
