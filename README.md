@@ -1,6 +1,5 @@
 # Crambarry.com
-[Crambarry.com](https://crambarry.com) is an online gamified classroom web app, designed to replace that crummy Instagram group chat
-involuntarily created by that one student who tries too hard. The website features a roulette rewards system, player customizability, multi-user flashcard generator, and discussion/question forums.
+[Crambarry.com](https://crambarry.com) is an online gamified classroom web app, designed to replace that crummy Instagram study-group chat. The website features a roulette rewards system, player customizability, multi-user flashcard generator, and discussion/question forums.
 
 <p align="center">
     <img alt="crambarry-preview3" src="https://i.ibb.co/b5NDjqD/3.png" width="100%"> 
